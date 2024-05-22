@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏫 I'm currently studying Information Systems at IFBA/Brazil.<br>📚 I'm currently learning: Next JS and Microsservices<br>🔭 I’m currently working on <a href="https://br.linkedin.com/company/soluevo" target="_blank">Soluevo</a> as Jr Front End Developer</p>
+<p align="left">🏫 I'm currently studying Information Systems at IFBA/Brazil.<br>📚 I'm currently learning: Next JS and Microsservices<br>🔭 I’m currently working on <a href="https://compass.uol/pt/home/" target="_blank">Compass UOL</a> as React Native Developer</p>
 
 ###
 
