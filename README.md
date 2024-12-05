@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gerdany Junior and I am a Full Stack developer, certified AWS Cloud Practitioner, from Bahia - Brazil. Currently, I am studying for a Bachelor’s degree in Information Systems at IFBA.</p>
+<p align="left">Hi! my name is Gerdany Junior and I am a Full Stack developer, certified AWS Cloud Practitioner and certified AI Practitioner, from Bahia - Brazil. Currently, I am studying for a Bachelor’s degree in Information Systems at IFBA.</p>
 
 ###
 
