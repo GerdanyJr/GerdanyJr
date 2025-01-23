@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏫 I'm currently studying Information Systems at IFBA/Brazil.<br>📚 I'm currently learning: Microservices and Spring Cloud<br>🔭 I’m currently working at <a href="https://compass.uol/pt/home/" target="_blank">Compass UOL</a> as a React Native Developer</p>
+<p align="left">🏫 I'm currently studying Information Systems at IFBA/Brazil.<br>📚 I'm currently learning: Microservices and Spring Cloud<br></p>
 
 ###
 
